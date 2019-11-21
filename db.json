@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "firstname": "Pablo",
+        "lastname": "Maly",
+        "email": "pablomaly@gmail.com",
+        "balance": 10000,
+        "transactions": [
+            {
+            "id": 245,
+            "ammount": 15656,
+            "type": "D",
+            "date": "14/04/1997"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "firstname": "Frank",
+        "lastname": "Thom",
+        "email": "fthom@gmail.com",
+        "balance": 10000,
+        "transactions": [
+            {
+            "id": 245,
+            "ammount": 15656,
+            "type": "C",
+            "date": "14/04/1997"
+            }
+        ]
+    }
+]
